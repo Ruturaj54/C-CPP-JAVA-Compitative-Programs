@@ -1,0 +1,1 @@
+#//Problem Statement:Write a program which accept one number from user and print that number of even numbers on screen
